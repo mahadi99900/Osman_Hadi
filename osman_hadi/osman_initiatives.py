@@ -1,0 +1,52 @@
+# osman_hadi/osman_initiatives.py
+
+from .styles import display_banner, his_face2
+
+def initiatives(lang='b'):
+    his_face2()
+    display_banner()
+    
+    if lang.lower() == 'e':
+        print("\n--- STRATEGIC INITIATIVES & RESISTANCE ---")
+        print("-------------------------------------------")
+        print("Primary Focus: National Sovereignty & Social Reform")
+        print("\n1. INQILAB MANCHA (The Platform of Revolution)")
+        print("Osman Hadi founded 'Inqilab Mancha' to serve as a watchdog for the")
+        print("July Revolution's spirit. It aimed to bridge the gap between")
+        print("different ideological streams—Madrasa and General students.")
+        print("\n2. ANTI-HEGEMONY & BOYCOTT MOVEMENT")
+        print("He was a leading figure in the 'India Out' campaign in Bangladesh.")
+        print("He advocated for the boycott of products from countries that")
+        print("supported the autocratic Hasina regime, viewing economic")
+        print("decoupling as a step toward true independence.")
+        print("\n3. BORDER KILLING PROTESTS")
+        print("Hadi organized numerous demonstrations against the extrajudicial")
+        print("killings of Bangladeshi citizens by the BSF at the borders.")
+        print("\n4. REFORMING RELIGIOUS NARRATIVES")
+        print("As a Mufti, he worked to reform religious education, emphasizing")
+        print("the role of scholars in national politics and human rights.")
+        print("\n5. COUNTER-FASCISM DOCUMENTATION")
+        print("He took initiatives to archive the history of the July Massacre,")
+        print("ensuring that the crimes of the fallen regime are never forgotten.")
+    
+    else:
+        print("\n--- কৌশলগত উদ্যোগ ও প্রতিরোধ আন্দোলন ---")
+        print("------------------------------------------")
+        print("মূল লক্ষ্য: জাতীয় সার্বভৌমত্ব এবং সামাজিক সংস্কার")
+        print("\n১. ইনকিলাব মঞ্চ (বিপ্লবের প্লাটফর্ম)")
+        print("জুলাই বিপ্লবের চেতনাকে প্রাতিষ্ঠানিক রূপ দিতে ওসমান হাদি 'ইনকিলাব মঞ্চ'")
+        print("প্রতিষ্ঠা করেন। এর মূল উদ্দেশ্য ছিল মাদ্রাসা এবং সাধারণ শিক্ষার্থীদের")
+        print("মধ্যে বিদ্যমান দূরত্বের দেয়াল ভেঙে একটি ঐক্যবদ্ধ প্ল্যাটফর্ম তৈরি করা।")
+        print("\n২. আধিপত্যবাদ বিরোধী ও পণ্য বর্জন আন্দোলন")
+        print("বাংলাদেশে 'ইন্ডিয়া আউট' বা ভারতীয় পণ্য বর্জন আন্দোলনের তিনি অন্যতম")
+        print("পুরোধা ছিলেন। যে দেশগুলো হাসিনা সরকারকে মদদ দিয়েছে, তাদের অর্থনৈতিকভাবে")
+        print("প্রতিরোধ করাকে তিনি পূর্ণ স্বাধীনতার অন্যতম ধাপ মনে করতেন।")
+        print("\n৩. সীমান্ত হত্যার প্রতিবাদ")
+        print("বিএসএফ কর্তৃক সীমান্তে বাংলাদেশি নাগরিকদের নির্বিচার হত্যার বিরুদ্ধে")
+        print("তিনি রাজপথে অসংখ্য সভা ও বিক্ষোভের নেতৃত্ব দিয়েছেন।")
+        print("\n৪. ধর্মীয় বয়ান ও কাঠামোগত সংস্কার")
+        print("মুফতি হিসেবে তিনি আলেম সমাজকে জাতীয় রাজনীতি এবং মানবাধিকার রক্ষায়")
+        print("সক্রিয় ভূমিকা পালনে উদ্বুদ্ধ করেছেন।")
+        print("\n৫. ফ্যাসিবাদ বিরোধী নথিপত্র সংগ্রহ")
+        print("জুলাই গণহত্যার সঠিক ইতিহাস সংরক্ষণ এবং পতিত স্বৈরাচারী সরকারের")
+        print("অপকর্মগুলো আর্কাইভ করার জন্য তিনি বিশেষ উদ্যোগ গ্রহণ করেছিলেন।")

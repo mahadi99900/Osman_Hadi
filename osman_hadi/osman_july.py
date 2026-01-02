@@ -1,0 +1,53 @@
+# osman_hadi/osman_july.py
+
+from .styles import display_banner, his_face3
+
+def july_uprising(lang='b'):
+    his_face3()
+    display_banner()
+    
+    if lang.lower() == 'e':
+        print("\n--- THE JULY REVOLUTION & CRIMES AGAINST HUMANITY ---")
+        print("------------------------------------------------------")
+        print("Context: Student-People Mass Uprising 2024")
+        print("Role of Osman Hadi: Field Leader and Intellectual Strategist")
+        print("\nTHE REVOLUTIONARY ROLE")
+        print("Osman Hadi emerged as a key coordinator during the uprising.")
+        print("He was seen on the front lines, protecting students from")
+        print("state-sponsored violence. Beyond the streets, he worked to")
+        print("unite various ideological groups under the single banner of")
+        print("justice and national sovereignty.")
+        print("\nCRIMES OF THE HASINA REGIME")
+        print("Under the direct orders of Sheikh Hasina, the state machinery")
+        print("unleashed an unprecedented massacre. Key crimes included:")
+        print("1. Extrajudicial Killings: Over 1,000 civilians were killed.")
+        print("2. Sniper Attacks: Peaceful protesters were targeted in the head.")
+        print("3. Mass Arrests: Thousands of youths were abducted and tortured.")
+        print("4. Enforced Disappearances: Using agencies to silence critics.")
+        print("\nOSMAN HADI'S STAND")
+        print("Osman Hadi documented these atrocities and stood as a witness")
+        print("to the fascism. His 'Inqilab Mancha' became a symbol of")
+        print("resistance against the remnants of this criminal system,")
+        print("which eventually led to him being targeted by the regime's loyalists.")
+    
+    else:
+        print("\n--- জুলাই বিপ্লব ও শেখ হাসিনা সরকারের অপরাধনামা ---")
+        print("---------------------------------------------------")
+        print("প্রেক্ষাপট: ২০২৪-এর ছাত্র-জনতার গণঅভ্যুত্থান")
+        print("ওসমান হাদির ভূমিকা: মাঠপর্যায়ের নেতা ও তাত্ত্বিক নির্দেশক")
+        print("\nবিপ্লবী ভূমিকা")
+        print("জুলাই বিপ্লবের সময় ওসমান হাদি একজন অন্যতম সমন্বয়ক হিসেবে আবির্ভূত হন।")
+        print("রাষ্ট্রীয় বাহিনীর সহিংসতা থেকে সাধারণ শিক্ষার্থীদের রক্ষা করতে তাঁকে")
+        print("সব সময় সামনের সারিতে দেখা গেছে। তিনি বিভিন্ন মতাদর্শের মানুষকে")
+        print("ন্যায়বিচার ও জাতীয় সার্বভৌমত্বের এক দফায় ঐক্যবদ্ধ করতে কাজ করেন।")
+        print("\nহাসিনা সরকারের অপরাধসমূহ")
+        print("শেখ হাসিনার সরাসরি নির্দেশে রাষ্ট্রীয় শক্তি এক নজিরবিহীন গণহত্যা চালায়।")
+        print("তৎকালীন সরকারের প্রধান অপরাধগুলো ছিল:")
+        print("১. বিচারবহির্ভূত হত্যাকাণ্ড: ১০০০-এরও বেশি সাধারণ মানুষকে হত্যা।")
+        print("২. স্নাইপার হামলা: আন্দোলনকারীদের মাথায় ও বুকে লক্ষ্য করে গুলি।")
+        print("৩. গণ-গ্রেপ্তার ও নির্যাতন: হাজার হাজার তরুণকে তুলে নিয়ে অমানবিক নির্যাতন।")
+        print("৪. গুম ও আয়নাঘর: ভিন্নমতাবলম্বীদের গুম করে গোপন টর্চার সেলে বন্দি রাখা।")
+        print("\nওসমান হাদির অবস্থান")
+        print("ওসমান হাদি এই প্রতিটি অপরাধের বিরুদ্ধে নথিপত্র সংগ্রহ করেন এবং")
+        print("ফ্যাসিবাদবিরোধী লড়াই জারি রাখেন। তাঁর প্রতিষ্ঠিত 'ইনকিলাব মঞ্চ' ছিল")
+        print("এই অপরাধী চক্রের অবশিষ্টাংশের বিরুদ্ধে এক শক্তিশালী প্রতিরোধ।")
