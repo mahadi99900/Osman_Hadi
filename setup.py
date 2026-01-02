@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="osman_hadi",
-    version="1.0.4",
+    version="1.0.5",
     author="Mahdi bin iqbal",
     author_email="islammdmahadi943@gmail.com",
     description="A bilingual Python library documenting the life and legacy of Shaheed Osman Bin Hadi.",
