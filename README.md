@@ -13,7 +13,7 @@
 ## Installation & Import | ইনস্টলেশন ও ইমপোর্ট
 
 Install directly via pip / সরাসরি pip দিয়ে ইনস্টল করুন:  
-`pip install Osman_Hadi`  
+`pip install osman_hadi`  
 
 Import the modules in your Python script / পাইথন স্ক্রিপ্টে মডিউলগুলো ইমপোর্ট করুন:  
 `from osman_hadi import osman_family, osman_edu, osman_initiatives, osman_july, osman_quotes`  
