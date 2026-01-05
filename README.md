@@ -1,5 +1,10 @@
 # Osman Hadi Archive | ওসমান হাদি আর্কাইভ
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahadi99900/Osman_Hadi/main/pic.jpg" width="300" alt="Shaheed Osman Bin Hadi">
+</p>
+
+
 **Osman Hadi Archive** is a Python library that documents and showcases the life, achievements, and revolutionary activities of Osman Hadi. It uses ASCII art, banners, and structured textual content to make console output engaging. The library is fully bilingual (English & Bengali) and designed for educational and commemorative purposes. **ওসমান হাদি আর্কাইভ** একটি পাইথন লাইব্রেরি যা ওসমান হাদির জীবন, কর্মকাণ্ড এবং বিপ্লবী কার্যক্রম প্রদর্শন করে। এতে ASCII আর্ট, ব্যানার এবং সংরক্ষিত তথ্য ব্যবহার করে টার্মিনাল আউটপুটকে আকর্ষণীয় করা হয়েছে। এটি দুই ভাষায় (ইংরেজি ও বাংলা) ব্যবহারযোগ্য।  
 
 ## Modules & Functions | মডিউল ও ফাংশনসমূহ
