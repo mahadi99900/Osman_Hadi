@@ -6,14 +6,14 @@ def start_archive():
     print("Welcome to Shaheed Osman Bin Hadi Digital Archive")
     print("================================================")
     
-    # ১. সাহায্য বা কমান্ড লিস্ট দেখানো
+    
     oh.help()
     
-    # ২. ছবি বা আর্ট দেখানো
+   
     print("\nDisplaying Portrait...")
     oh.his_face1()
     
-    # ৩. বাংলা ও ইংরেজি উভয় ভাষায় তথ্য দেখা
+   
     print("\n--- Biography / জীবনী ---")
     oh.bio()
     
