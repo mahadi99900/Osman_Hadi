@@ -9,7 +9,7 @@ from .osman_quotes import quotes
 from .osman_initiatives import initiatives
 from .osman_martyrdom import martyrdom
 
-# ছবি দেখানোর কমান্ডসমূহ
+
 from .styles import his_face1, his_face2, his_face3, his_face4, his_face5
 
 def show_all(lang='b'):
